@@ -1,1 +1,1 @@
-{{default_channel_grouping('1','2','3')}}
+{{test_macro('my_arg')}}
